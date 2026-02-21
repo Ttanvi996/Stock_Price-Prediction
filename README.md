@@ -57,19 +57,6 @@ The following models were trained and compared:
 - 90% Training Data
 - 10% Validation Data
 
-Evaluation Metric:
-- ROC-AUC Score
-
-## Model Performance
-
-| Model                | Training ROC-AUC | Validation ROC-AUC |
-|----------------------|------------------|--------------------|
-| Logistic Regression  | 0.5390           | 0.5501             |
-| SVC (Poly Kernel)    | 0.5221           | 0.4928             |
-| XGBoost              | 0.9758           | 0.5812             |
-
-XGBoost showed strong training performance but moderate validation performance, suggesting overfitting.
-
 ## Libraries Used
 
 The project uses the following Python libraries:
