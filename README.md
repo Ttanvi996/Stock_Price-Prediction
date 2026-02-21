@@ -24,7 +24,6 @@ The dataset contains historical stock data with **1009 rows and 7 columns**:
 ### Data Preprocessing Steps
 
 - Checked for missing values (none found)
-- Removed `Adj Close` column (identical to `Close`)
 - Created new engineered features
 - Standardized features before training
 
