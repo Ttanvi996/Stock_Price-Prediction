@@ -57,9 +57,6 @@ The following models were trained and compared:
 - 10% Validation Data
 
 ## Libraries Used
-
-The project uses the following Python libraries:
-
 - numpy  
 - pandas  
 - matplotlib  
